@@ -1,0 +1,26 @@
+/* body */
+body{
+    color: #f5f5f5;
+}
+
+/* main heading */
+h1{
+    color:aqua;
+}
+
+/* sub heading */
+h2{
+    color:red;
+}
+/* paragraph */
+p{
+    color:black;
+}
+/* button */
+.btn{
+    color:orange;
+    background-color: white;
+}
+#about{
+    background-color: lightyellow;
+}
